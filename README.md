@@ -36,7 +36,7 @@
 <div align="center">
   <h1>📊 GitHub stats <h1>
   <a href="https://github.com/EduFadel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduFadel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduFadel&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EduFadel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_bust=1"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduFadel&layout=compact&langs_count=7&theme=dark&cache_bust=1"/>
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

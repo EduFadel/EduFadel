@@ -34,9 +34,14 @@
 <br>
 
 <div align="center">
-  <h1>📊 GitHub stats <h1>
-  <a href="https://github.com/EduFadel">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EduFadel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_bust=1"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduFadel&layout=compact&langs_count=7&theme=dark&cache_bust=1"/>
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EduFadel &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=EduFadel &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduFadel &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=EduFadel &icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -30,4 +30,8 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 </div>
+
+![](https://github-readme-stats.vercel.app/api?username=EduFadel&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

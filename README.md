@@ -1,8 +1,7 @@
-## 💫 Yep, Thats me
 - 🎓 3/4 Bachelor Computer Science at Universidade Tecnológica Federal do Paraná
 - 🔎 Always willing to learn new technologies 
 - 🧠 Machine Learning 
-- 💀 Fun Fact: I have 100% on all Dark Souls (Soulslike enthusiast) <img src="https://media.tenor.com/QTbcrC893SIAAAAm/solaire.webp" width="30" height="30"/></h2>
+- 💀 Fun Fact: I have 100% on all Dark Souls <img src="https://media.tenor.com/QTbcrC893SIAAAAm/solaire.webp" width="30" height="30"/></h2>
 
 <br>
 
@@ -10,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-fadel/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duds.fadel/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1eduardofadel@gmail.com)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/PaxtelDeVento/)
 
 <br>
 
@@ -41,6 +39,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduFadel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduFadel&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<h1 align='center'><i>Don't give up skeleton!</i></h1>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
